@@ -6,13 +6,7 @@ This project presents an elegant image gallery with a zoom effect when hovering,
 - **Smooth Transitions:** CSS transitions are used to achieve fluid and appealing visual effects when interacting with the images.⚡
 - **Responsive Design:** The image gallery is designed to adapt to different screen sizes, ensuring a consistent experience on mobile and desktop devices.📲 
 > [!NOTE]
-> **Modern Style**
-> **Interactivity**
-> **Easy Implementation**
-
-
- With its simple implementation in HTML and CSS, this image gallery is easy to integrate into any web project. Add a touch of style to your website with this flying navigation!
-
+>  With its simple implementation in HTML and CSS, this image gallery is easy to integrate into any web project. Add a touch of style to your website with this flying navigation!
 ## Tecnologías - Programming languages
 - HTML
 - CSS
