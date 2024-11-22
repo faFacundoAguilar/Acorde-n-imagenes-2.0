@@ -1,6 +1,6 @@
 https://github.com/faFacundoAguilar/Acordeon-imagenes-2.0/assets/124779712/299f9dde-2ea2-4223-81fa-785f85a7d3eb
 # Image Gallery Design with Zoom Effect
-This project presents an elegant image gallery with a zoom effect when hovering, implemented using HTML and CSS. Inspired by the latest web design trends, this image gallery offers an attractive visual experience for users. <br>
+Este proyecto muestra una elegante galería de imágenes con un efecto de zoom al pasar el cursor, utilizando HTML y CSS. Una experiencia visual distinta para los usuarios. <br>
 🔗 [Visit the project](https://mediumvioletred-elk-650648.hostingersite.com/)
 
 ## Key Features:
