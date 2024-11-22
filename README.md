@@ -4,11 +4,11 @@ Este proyecto muestra una elegante galería de imágenes con un efecto de zoom a
 🔗 [Visit the project](https://mediumvioletred-elk-650648.hostingersite.com/)
 
 ## Key Features:
-- **Zoom Effect:** Images smoothly enlarge when hovered over, providing an interactive and immersive experience.🔎
-- **Smooth Transitions:** CSS transitions are used to achieve fluid and appealing visual effects when interacting with the images.⚡
-- **Responsive Design:** The image gallery is designed to adapt to different screen sizes, ensuring a consistent experience on mobile and desktop devices.📲 
+Efecto de Zoom: Las imágenes se amplían suavemente al pasar el cursor sobre ellas, proporcionando una experiencia interactiva e inmersiva.🔎
+Transiciones Suaves: Se utilizan transiciones en CSS para lograr efectos visuales fluidos y atractivos al interactuar con las imágenes.⚡
+Diseño Responsivo: La galería de imágenes está diseñada para adaptarse a diferentes tamaños de pantalla, garantizando una experiencia consistente en dispositivos móviles y de escritorio.📲
 > [!NOTE]
->  With its simple implementation in HTML and CSS, this image gallery is easy to integrate into any web project. Add a touch of style to your website with this flying navigation!
-## Tecnologías - Programming languages
+>  Con su sencilla implementación en HTML y CSS, esta galería de imágenes es fácil de integrar en cualquier proyecto web. ¡Añade un toque de estilo a tu sitio web con esta navegación que vuela !
+## Tecnologías 
 - HTML
 - CSS
