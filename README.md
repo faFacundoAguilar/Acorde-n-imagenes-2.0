@@ -3,7 +3,7 @@ https://github.com/faFacundoAguilar/Acordeon-imagenes-2.0/assets/124779712/299f9
 Este proyecto muestra una elegante galería de imágenes con un efecto de zoom al pasar el cursor, utilizando HTML y CSS. Una experiencia visual distinta para los usuarios. <br>
 🔗 [Visit the project](https://mediumvioletred-elk-650648.hostingersite.com/)
 
-## Key Features:
+## Caracteristicas:
 Efecto de Zoom: Las imágenes se amplían suavemente al pasar el cursor sobre ellas, proporcionando una experiencia interactiva e inmersiva.🔎
 Transiciones Suaves: Se utilizan transiciones en CSS para lograr efectos visuales fluidos y atractivos al interactuar con las imágenes.⚡
 Diseño Responsivo: La galería de imágenes está diseñada para adaptarse a diferentes tamaños de pantalla, garantizando una experiencia consistente en dispositivos móviles y de escritorio.📲
