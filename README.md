@@ -4,11 +4,11 @@ Este proyecto muestra una elegante galería de imágenes con un efecto de zoom a
 🔗 [Visita el project](https://darkslategrey-quetzal-221342.hostingersite.com/)
 
 ## Caracteristicas:
-Efecto de Zoom: Las imágenes se amplían suavemente al pasar el cursor sobre ellas, proporcionando una experiencia interactiva e inmersiva.🔎
-Transiciones Suaves: Se utilizan transiciones en CSS para lograr efectos visuales fluidos y atractivos al interactuar con las imágenes.⚡
+Efecto de Zoom: Las imágenes se amplían suavemente al pasar el cursor sobre ellas, proporcionando una experiencia interactiva e inmersiva.🔎 <br>
+Transiciones Suaves: Se utilizan transiciones en CSS para lograr efectos visuales fluidos y atractivos al interactuar con las imágenes.⚡<br>
 Diseño Responsivo: La galería de imágenes está diseñada para adaptarse a diferentes tamaños de pantalla, garantizando una experiencia consistente en dispositivos móviles y de escritorio.📲
 > [!NOTE]
->  Con su sencilla implementación en HTML y CSS, esta galería de imágenes es fácil de integrar en cualquier proyecto web. ¡Añade un toque de estilo a tu sitio web con esta navegación que vuela !
+>  Con implementación unicamente en HTML y CSS.
 ## Tecnologías 
 - HTML
 - CSS
